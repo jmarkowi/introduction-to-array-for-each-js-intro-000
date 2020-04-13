@@ -11,4 +11,3 @@ var animals [ "dog", "cat", "squirrel"];
 
 doToElementsInArray(animals, changeCompletely);
 
-console.log(animals);
